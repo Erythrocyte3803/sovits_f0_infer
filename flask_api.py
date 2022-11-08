@@ -48,8 +48,8 @@ if __name__ == '__main__':
     # 自行选择能接受的方法，或将vst最大切片时间调整为1s，此处设为Ture，延迟大音质稳定一些
     raw_infer = True
     # 每个模型和config是唯一对应的
-    model_name = "354_epochs.pth"
-    config_name = "config.json"
+    model_name = "bacong.pth"
+    config_name = "bacong.json"
     # 是否使用ONNX模型
     use_onnx_model = False
     hubert_onnx = "./pth/hubert.onnx"
