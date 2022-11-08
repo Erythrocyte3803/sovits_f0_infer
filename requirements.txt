@@ -12,8 +12,3 @@ sounddevice==0.4.5
 SoundFile==0.10.3.post1
 starlette==0.19.1
 tqdm==4.63.0
-librosa
-scikit-maad
-pandas==1.4.4
-fastapi==0.84.0
-onnxruntime-gpu==1.10.0
